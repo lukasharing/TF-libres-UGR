@@ -35,7 +35,9 @@ añádelo y haz un *pull request*.
 | [Francisco Fernández Millán](https://github.com/franfermi) | [JJ Merelo](https://github.com/JJ) | [InformaticaUGR_Bot](https://github.com/franfermi/TFG-Servicio_Web) | Grado en Ingeniería Informática |
 | [Jaime Caso Onzain](https://github.com/jimcase) | [JJ Merelo](https://github.com/JJ) | [Personalized Diets System](https://github.com/Stance4Health-Dev/docs) | Grado en Ingeniería Informática |
 | [Matilde Cabrera González](https://github.com/mati3) | Pedro Ángel Castillo Valdivieso  | [Desarrollo de una aplicación distribuida usando una red blockchain para la gestión y control de suministros de medicamentos​](https://github.com/mati3/Fabric-Medic) | Grado en Ingeniería Informática |
-|  [Salvador Corts Sánchez](https://github.com/salvacorts) | [JJ Merelo](https://github.com/JJ) | [Distributed Evolutionary Algorithms on Ephemeral Infrastructure](https://github.com/salvacorts/TFG-Thesis) | Grado en Ingeniería Informática | [Gocey](https://github.com/salvacorts/TFG-Parasitic-Metaheuristics) ||
+|  [Salvador Corts Sánchez](https://github.com/salvacorts) | [JJ Merelo](https://github.com/JJ) | [Distributed Evolutionary Algorithms on Ephemeral Infrastructure](https://github.com/salvacorts/TFG-Thesis) | Grado en Ingeniería Informática | [Gocey](https://github.com/salvacorts/TFG-Parasitic-Metaheuristics) |
+|  [Lukas Häring García](https://github.com/lukasharing) | Juan Carlos Torres Cantero | [Funciones de distancia con signo](https://github.com/lukasharing/TFG) | Grado en Ingeniería Informática | [Shadertoy](https://www.shadertoy.com/user/lukasharing) |
+|
 
 ## Trabajos fin de máster
 
